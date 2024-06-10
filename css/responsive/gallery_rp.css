@@ -1,0 +1,30 @@
+@media (max-width: 1279px){
+  .gallery-layout{
+    grid-template-columns: 50vw;
+    row-gap: 2vw;
+    margin: 5vw 0;
+  }
+  .gallery-layout > img{
+    width: 50vw;
+  }
+  @keyframes animate 
+  {
+    0%
+    {
+      transform: translateY(-10vh) scale(0.5); 
+    }
+    100%
+    {
+      transform: translateY(1279vh) scale(2); 
+    }
+  }
+}
+@media (max-width: 500px){
+  .gallery-layout{
+    grid-template-columns: 70vw;
+    row-gap: 3vw;
+  }
+  .gallery-layout > img{
+    width: 70vw;
+  }
+}

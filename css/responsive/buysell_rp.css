@@ -1,0 +1,205 @@
+@media (max-width: 1279px){
+  .payment-methods{
+    margin-top: 5vw !important;
+    height: 100%;
+    padding-bottom: 5vw;
+    flex-direction: column;
+    margin-left: 40vw !important;
+    margin-right: 40vw !important;
+  }
+  .payment-button{
+    line-height: 12vw;
+    font-size: 8vw;
+  }
+  .raydium-button{
+    padding: 1vw 8.5vw;
+  }
+  .jupiter-button{
+    padding: 1vw 10.5vw;
+  }
+  .bonkbot-button{
+    padding: 1vw 9.5vw;
+  }
+  .contract-button{
+    padding: 1vw 8.5vw;
+  }
+  .raydium-box{
+    font-size: 2.5vw;
+  }
+  .jupiter-box{
+    font-size: 2.5vw;
+  }
+  .bonkbot-box{
+    font-size: 2.5vw;
+  }
+  .raydium-box{
+    width: 90vw;
+    margin-right: 40vw;
+    margin-left: 40vw;
+    margin-top: 5vw;
+    font-size: 1.5vw;
+  }
+  .jupiter-box{
+    width: 90vw;
+    margin-right: 40vw;
+    margin-left: 40vw;
+    margin-top: 5vw;
+    font-size: 1.5vw;
+  }
+  .bonkbot-box{
+    width: 90vw;
+    margin-right: 40vw;
+    margin-left: 40vw;
+    margin-top: 5vw;
+    font-size: 1.5vw;
+  }
+  .contract-box{
+    margin-right: 40vw;
+    margin-left: 40vw;
+    margin-top: 5vw;
+    font-size: 3vw;
+  }
+  .copy-address{
+    --height: 7vw;
+  }
+  .copy-address-input{
+    font-size: 3vw;
+  }
+  .copy-address-button{
+    font-size: 4vw;
+  }
+}
+@media (max-width: 900px){
+  .payment-methods{
+    margin-top: 4vw !important;
+  }
+  .payment-button{
+    line-height: 12vw;
+    font-size: 8vw;
+  }
+  .raydium-button{
+    padding: 1vw 8.5vw;
+  }
+  .jupiter-button{
+    padding: 1vw 10.5vw;
+  }
+  .bonkbot-button{
+    padding: 1vw 9.5vw;
+  }
+  .contract-button{
+    padding: 1vw 8.5vw;
+  }
+  .raydium-box{
+    font-size: 2.5vw;
+  }
+  .jupiter-box{
+    font-size: 2.5vw;
+  }
+  .bonkbot-box{
+    font-size: 2.5vw;
+  }
+}
+@media (max-width: 800px){
+  .payment-button{
+    line-height: 12vw;
+    font-size: 8vw;
+  }
+  .raydium-button{
+    padding: 1vw 8.5vw;
+  }
+  .jupiter-button{
+    padding: 1vw 10.5vw;
+  }
+  .bonkbot-button{
+    padding: 1vw 9.5vw;
+  }
+  .contract-button{
+    padding: 1vw 8.5vw;
+  }
+  .raydium-box{
+    font-size: 2.5vw;
+  }
+  .jupiter-box{
+    font-size: 2.5vw;
+  }
+  .bonkbot-box{
+    font-size: 2.5vw;
+  }
+}
+@media (max-width: 700px){
+  .payment-methods{
+    margin-top: 6vw !important;
+  }
+  .payment-button{
+    line-height: 12vw;
+    font-size: 8vw;
+  }
+  .raydium-button{
+    padding: 1vw 8.5vw;
+  }
+  .jupiter-button{
+    padding: 1vw 10.5vw;
+  }
+  .bonkbot-button{
+    padding: 1vw 9.5vw;
+  }
+  .contract-button{
+    padding: 1vw 8.5vw;
+  }
+  .raydium-box{
+    font-size: 2.5vw;
+  }
+  .jupiter-box{
+    font-size: 2.5vw;
+  }
+  .bonkbot-box{
+    font-size: 2.5vw;
+  }
+}
+@media (max-width: 500px){
+  .payment-methods{
+    margin-top: 7vw !important;
+  }
+  .payment-button{
+    line-height: 17vw;
+    font-size: 12vw;
+  }
+  .raydium-button{
+    padding: 1vw 8.5vw;
+  }
+  .jupiter-button{
+    padding: 1vw 11.5vw;
+  }
+  .bonkbot-button{
+    padding: 1vw 9.5vw;
+  }
+  .contract-button{
+    padding: 1vw 8.5vw;
+  }
+  .raydium-box{
+    font-size: 3vw;
+  }
+  .jupiter-box{
+    font-size: 3vw;
+  }
+  .bonkbot-box{
+    font-size: 3vw;
+  }
+  .contract-box{
+    width: 90vw;
+    font-size: 6vw;
+  }
+  .contract-box h3{
+    border-bottom: 1px solid #fff;
+    padding: 4vw 0;
+  }
+  .copy-address{
+    --height: 10vw;
+  }
+  .copy-address-input{
+    font-size: 6vw;
+  }
+  .copy-address-button{
+    font-size: 4vw;
+  }
+}
